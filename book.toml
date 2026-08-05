@@ -3,6 +3,10 @@ title = "Fungi Protocol Suite"
 language = "en"
 src = "src"
 
+[preprocessor.jupyter]
+command = "python3 contrib/jupyter_nb.py"
+before = ["graphviz", "mermaid", "katex"]
+
 [preprocessor.graphviz]
 command = "mdbook-graphviz"
 
