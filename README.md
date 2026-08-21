@@ -2,6 +2,8 @@
 
 This repository contains documents that describe a family collaborative Bitcoin transaction construction protocols. The protocols form a progression towards decentralized and market based privacy preserving transactions.
 
+> **Work in progress**: most chapters are still under review. See the [open pull requests](https://github.com/fungi-protocol/docs/pulls) for material being drafted.
+
 ## Fungi protocol suite
 
 ### Honest setting
